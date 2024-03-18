@@ -1,0 +1,9 @@
+PROGRAM,Priority PM,Start Date (W1),End Date (W1),Start Date (W2),End Date (W2),Brent Days,No. of Program Days,Location,Faculty Personality,Faculty Complexity,Accredidation,Overall Length,Weekends,Intermodular Work,Extra Events - Onsite,Extra Events - Offsite,Number of Participants,Multiple Faculty,Guest Speakers,Coaches,Overlapping Program,Program Type,Custom Liason
+RAMP,,09.25.23,09.29.23,10.06.23,10.10.23,5,10,Onsite,Hard,Hard,No,Multi Week,No,Yes,Multiple ,No,² 30,Yes - All Rice,Yes,Yes,Yes,Open - Existing,Open - N/A
+TLA,,10.17.23,10.20.23,,,4,4,Onsite,Hard,Hard,No,2 - 4 Days,No,No,Single,No,² 30,No,No,No,No,Open - Existing,Open - N/A
+TMI,,10.26.23,10.27.23,11.07.23,11.08.23,2,2,Onsite,Hard,Hard,No,2 - 4 Days,No,No,Single,No,30 < X < 50,No,No,No,Yes,Open - Existing,Open - N/A
+SFE,,10.30.23,11.01.23,,,0,3,Onsite,Medium,Medium,No,2 - 4 Days,No,No,Single,No,² 30,No,No,No,No,Open - Existing,Open - N/A
+FANFM,,12.12.23,12.15.23,,,0,4,Onsite,Easy,Easy,No,2 - 4 Days,No,No,Single,No,² 30,Yes - Mixed,No,No,No,Open - Existing,Open - N/A
+ELH,,02.12.24,02.16.24,04.15.23,04.19.24,5,10,Onsite,Hard,Hard,No,Multi Week,No,No,Multiple ,No,² 30,Yes - All Rice,Yes,No,No,Open - Existing,Open - N/A
+LI,Yassmine,05.06.24,05.08.24,,,0,2,Onsite,Hard,Hard,No,2 - 4 Days,No,No,Single,No,² 30,No,Yes,No,No,Open - Existing,Open - N/A
+CoachRice,,Virtual,,,,0,12,Onsite,Hard,Hard,No,Multi Week,No,Yes,Single,No,² 30,Yes - All Rice,No,No,No,Open - Existing,Open - N/A
